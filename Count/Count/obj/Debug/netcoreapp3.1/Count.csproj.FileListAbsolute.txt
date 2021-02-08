@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.exe
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.deps.json
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.json
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.dll
+C:\Users\HP\source\repos\Count\Count\bin\Debug\netcoreapp3.1\Count.pdb
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfo.cs
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.dll
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.pdb
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache
+C:\Users\HP\source\repos\Count\Count\obj\Debug\netcoreapp3.1\Count.csprojAssemblyReference.cache
